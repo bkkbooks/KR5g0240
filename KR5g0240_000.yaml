@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5g0240/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 道藏闕經目錄
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 03:00:43.959644'
+  source:
+    repository: kanripo
+    path: KR5g0240/KR5g0240_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:8407e24850d63acacb528db7209b21a7ba4597aa7d31fc10e3d68c1e74042cef
